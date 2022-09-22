@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture 8 Video Solutions
@@ -23,8 +25,7 @@ video_metadata:
   youtube_id: vqn_yk5aFcI
 ---
 
-
-
 **Description:** This in-class question demonstrates class definitions in Python.
 
 **Instructor:** Dr. Ana Bell
+

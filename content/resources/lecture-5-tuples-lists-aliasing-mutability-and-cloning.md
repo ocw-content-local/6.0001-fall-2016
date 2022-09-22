@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -24,8 +26,7 @@ video_metadata:
   youtube_id: RvRKT-jXvko
 ---
 
-
-
 **Description:** In this lecture, Dr. Bell introduces compound data types, such as lists and tuples, and explains the concepts of aliasing, mutability, and cloning.
 
 **Instructor:** Dr. Ana Bell
+

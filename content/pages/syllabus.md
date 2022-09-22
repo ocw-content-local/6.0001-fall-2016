@@ -1,11 +1,13 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, goals, attendance, problem sets, quizzes, grading policy, the
+  textbook, and the schedule of lecture topics and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 678646fa-7bd0-df01-4b7a-c47adbdbe694
 ---
-
 Course Meeting Times
 --------------------
 
@@ -19,6 +21,8 @@ Course Information
 _6.0001 Introduction to Computer Science and Programming in Python_ is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python 3.5 programming language.
 
 This is a half-semester course. Students who successfully complete 6.0001 may continue into _6.0002 Introduction to Computational Thinking and Data Science_, which is taught in the second half of the semester.
+
+6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
 
 Goals
 -----

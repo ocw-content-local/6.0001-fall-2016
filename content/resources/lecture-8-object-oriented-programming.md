@@ -5,6 +5,8 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -24,8 +26,7 @@ video_metadata:
   youtube_id: -DP1i2ZU9gk
 ---
 
-
-
 **Description:** In this lecture, Dr. Bell introduces Object Oriented Programming and discusses its representation in Python.
 
 **Instructor:** Dr. Ana Bell
+

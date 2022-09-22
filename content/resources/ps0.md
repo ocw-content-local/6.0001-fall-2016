@@ -6,6 +6,7 @@ file: /media/courses/6-0001-introduction-to-computer-science-and-programming-in-
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,3 +15,4 @@ resourcetype: Other
 title: ps0.zip
 uid: 7b5294e2-c78e-0aaf-273b-4149ec55c1b1
 ---
+This resource contains information regarding introduction to computer science and programming in Python: Problem set.

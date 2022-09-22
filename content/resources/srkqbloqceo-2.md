@@ -4,6 +4,7 @@ description: ''
 file: /media/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/a643c362e0d6f2c6292733b3933b6213_SrkqbLOQcEo.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

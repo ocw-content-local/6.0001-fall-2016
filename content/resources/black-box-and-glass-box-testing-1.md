@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture 7 Video Solutions
@@ -23,8 +25,7 @@ video_metadata:
   youtube_id: 5McjE8e5gIg
 ---
 
-
-
 **Description:** This in-class question explains aspects of testing, including path-completeness and boundary conditions.
 
 **Instructor:** Dr. Ana Bell
+

@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture 9
@@ -23,8 +25,7 @@ video_metadata:
   youtube_id: C_pgH5QhIZ8
 ---
 
-
-
 **Description:** This in-class question explains how and why class attribute getters and setters are important in Python.
 
 **Instructor:** Dr. Ana Bell
+

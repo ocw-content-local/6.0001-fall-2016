@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture 1
@@ -23,8 +25,7 @@ video_metadata:
   youtube_id: EFCdr_43qmU
 ---
 
-
-
 **Description:** This in-class question explains variable bindings and the order of operations in python.
 
 **Instructor:** Dr. Ana Bell
+

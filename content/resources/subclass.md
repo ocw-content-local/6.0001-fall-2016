@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture 9
@@ -23,8 +25,7 @@ video_metadata:
   youtube_id: 8s0d87sjy1A
 ---
 
-
-
 **Description:** This in-class question demonstrates how subclasses are constructed in Python.
 
 **Instructor:** Dr. Ana Bell
+

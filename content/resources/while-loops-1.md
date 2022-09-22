@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture 2 Video Solutions
@@ -23,8 +25,7 @@ video_metadata:
   youtube_id: P-0w8xWcnDQ
 ---
 
-
-
 **Description:** This in-class question demonstrates While Loops in Python.
 
 **Instructor:** Dr. Ana Bell
+

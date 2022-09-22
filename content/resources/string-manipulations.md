@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture 3
@@ -23,8 +25,7 @@ video_metadata:
   youtube_id: -jjUoTiaSHw
 ---
 
-
-
 **Description:** This in-class question demonstrates the use of string indices in Python.
 
 **Instructor:** Dr. Ana Bell
+
